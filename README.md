@@ -1,7 +1,18 @@
 Lab 1:  Sample Application Development 
 Lab 2: Create a responsive website using HTML5 and CSS3 
 Lab 3: Develop a simple client-server application using Node.js and Express 
-Lab 4: Develop a dynamic SPA (Single Page Application) using React.js. 
+Lab 4: Develop a dynamic SPA (Single Page Application) using React.js.
+SETUP FOR LAB 4:
+Step 1: Create React App
+(------->  npx create-react-app react-spa-app   <-------)
+(------------->    cd react-spa-app   <------------)
+Step 2: Install React Router DOM
+(-------------------->    npm install react-router-dom <------------)
+Step 3: Replace the Source Files
+Replace the contents of the src/ folder with the files provided above.
+Step 4: Start the Application
+bash:
+(--------------->    npm start <------------------)
 Lab 5: Create a to-do list application using React.js with Redux for state management 
 Lab 6: Create an interactive form with validation using JavaScript and CSS3 
 Lab 7: Develop a RESTful API using Node.js and Express.js 
